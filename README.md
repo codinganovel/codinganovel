@@ -18,6 +18,7 @@ YP   YP 88   YD    YP
 ## Hi there 👋
 
 [**email me!**](mailto:wow@sammakes.art)
+[**professional_resume**](professional_resume.md)
 
 > I'm sam. it's very nice to meet you! use anything here freely!
 > Check out my blog as well. i write a lot.
@@ -41,6 +42,8 @@ I solve problems by understanding principles, not memorizing patterns. When team
 - Elegant complexity: Sophisticated solutions that feel simple to use
 - Cross-platform thinking: Systems should work everywhere, not just on my machine
 - Rapid iteration: Ship working solutions, then optimize based on actual usage
+
+I basically read [**grugbrain.dev**](https://grugbrain.dev) and won't shut up about it.
 
 ## Engineering Highlights :
 
@@ -85,8 +88,11 @@ The **Coffee License** is MIT + ethics:
 - Comes with bad puns, ASCII art, and no legal drama  
 
 👉 Learn more at [**thecoffeelicense.org**](https://thecoffeelicense.org)
+
 ---
+
 *Built with ☕, systematic thinking, and a bias toward shipping.*
+
 ---
 
 <!--
