@@ -47,12 +47,11 @@ I basically read [**grugbrain.dev**](https://grugbrain.dev) and won't shut up ab
 
 ## Product Highlights :
 
-- [autocd-go](https://github.com/codinganovel/autocd-go) - Platform infrastructure solving 50-year Unix limitation, enables entire ecosystem of navigation tools
-- [yanked](https://github.com/codinganovel/yanked) - Universal package manager making GitHub tools instantly installable for developers
-- [ql](https://github.com/codinganovel/ql) - Interactive command launcher turning complex workflows into simple selections
-- [note](https://github.com/codinganovel/note) - Complete note management system with fuzzy search and seamless organization
-- [mkmd](https://github.com/codinganovel/mkmd) - Text editor that actually handles large files gracefully with modern UX
-
+- [autocd-go](https://github.com/codinganovel/autocd-go) - Cross-platform library solving 50-year Unix directory inheritance limitation via process replacement
+- [mkmd](https://github.com/codinganovel/mkmd) - Terminal text editor with chunking for large files and horizontal scrolling
+- [ql](https://github.com/codinganovel/ql) - Interactive command launcher with fuzzy search and template system
+- [yanked](https://github.com/codinganovel/yanked) - Universal package manager for GitHub-hosted tools
+- [cdf](https://github.com/codinganovel/cdf) - Directory-only fuzzy finder with autocd integration - faster than file-based alternatives
 Plus 20+ additional tools creating a cohesive productivity ecosystem for developers and writers.
 
 ---
