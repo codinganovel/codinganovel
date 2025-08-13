@@ -50,11 +50,11 @@ Technical builder with strong product instincts seeking to transition into produ
 
 **Developer Productivity Suite**
 - **[ql](https://github.com/codinganovel/ql)** - Command launcher with templates, demonstrates understanding of power-user workflows
-- **[note](https://github.com/codinganovel/note)** - Complete note management system with TUI browser and fuzzy search
+- **[pda](https://github.com/codinganovel/pda)** - note quick capture with search
 - **[mkmd](https://github.com/codinganovel/mkmd)** - Text editor optimized for large files with sophisticated UX
 
 **File Management Tools**
-- **[sweet](https://github.com/codinganovel/sweet)** - Dual-pane file manager with notes integration
+- **[powpow](https://github.com/codinganovel/powpow)** - .note note browser
 - **[cdf](https://github.com/codinganovel/cdf)** - Directory-focused fuzzy finder, faster than file-based alternatives
 
 *Complete portfolio demonstrates consistent product thinking across 25+ tools*
