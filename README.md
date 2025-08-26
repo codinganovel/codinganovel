@@ -12,7 +12,7 @@ Y8b  d8 `8b  d8' 88  .8D   .88.   88  V888 88. ~8~ 88   88 88  V888 `8b  d8'  `8
 [**email me!**](mailto:wow@sammakes.art)
 [**professional_resume**](professional_resume.md)
 
-check out > [**my blog**](www.thesaintlyproject.com)/[**my homepage**](www.sammakes.art)
+check out > [**my blog**](https://www.thesaintlyproject.com)/[**my homepage**](https://www.sammakes.art)
 
 > I'm sam. it's very nice to meet you! use anything here freely!
 > Check out my blog as well. i write a lot.
